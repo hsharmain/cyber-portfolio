@@ -5,7 +5,7 @@ title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
 
-# Add the link to your journal below https://docs.google.com/document/d/1L3QbPcAhxSqHKgTbgqXRHmTXWZxJ9Khbgq4bsOgfwIc/edit?tab=t.0
+# Add the link to your journal below 
 project-url: 
 
 
