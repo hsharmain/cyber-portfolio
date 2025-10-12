@@ -4,7 +4,7 @@ email: henderson.sharmain@gmail.com
 url: https://hsharmain.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Data - Analysis - Security"
+skills: "Cybersecurity - Analyst - Ethical Hacker"
 # "Cybersecurity - Analyst - Ethical Hacker" 
 meta_author: Henderson Sharmain 
 
@@ -51,11 +51,11 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Los Angeles, California
+  - line: Texas
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
-Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap Cyber icons created by</a>.
+ <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
 
 # Build settings
 markdown: kramdown
