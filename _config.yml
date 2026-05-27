@@ -1,10 +1,10 @@
 # Site settings
-title: Sharmain Henderson 
+title: "Sharmain Henderson | Cybersecurity Portfolio"
 email: henderson.sharmain@gmail.com
 url: https://hsharmain.github.io/cyber-portfolio
-description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
-keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+description: "Professional cybersecurity portfolio specializing in SOC Analysis, Application Security (AppSec), and proactive threat mitigation."
+keywords: "cybersecurity, SOC analyst, AppSec, Security+, application security, log analysis, threat detection, portfolio"
+skills: "Cybersecurity Analyst - SOC Analyst - Application Security"
 # "Cybersecurity - Analyst - Ethical Hacker" 
 meta_author: Henderson Sharmain 
 
@@ -36,7 +36,7 @@ footer:
   copyright: Sharmain Henderson 
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: ""
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -54,8 +54,7 @@ location:
   - line: California, USA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap Cyber icons </a>.
-created by Flaticon 
+credits: ""
 # href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon
 
 # Build settings
